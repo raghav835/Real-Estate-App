@@ -1,0 +1,122 @@
+export const listData = [
+  {
+    id: 1,
+    title: "A Great Apartment Next to the Beach!",
+    img: "https://i.pinimg.com/564x/40/c4/cd/40c4cd938994f60d723b07e6ecd4f010.jpg",
+    bedroom: 2,
+    bathroom: 1,
+    price: 7000000,
+    address: "456 MG Road, Bangalore",
+    latitude: 51.5074,
+    longitude: -0.1278,
+  },
+  {
+    id: 2,
+    title: "An Awesome Apartment Near the Park! Almost too good to be true!",
+    img: "https://i.pinimg.com/564x/73/0f/af/730faf2a78b4a0afe39c7e650adbb758.jpg",
+    bedroom: 3,
+    bathroom: 2,
+    price: 10000000,
+    address: "789 Brigade Road, Bangalore",
+    latitude: 52.4862,
+    longitude: -1.8904,
+  },
+  {
+    id: 3,
+    title: "A New Apartment in the City!",
+    img: "https://i.pinimg.com/564x/4f/ee/a8/4feea8ffe77aaaeb31f454f65e824913.jpg",
+    bedroom: 1,
+    bathroom: 1,
+    price: 9000000,
+    address: "101 Indiranagar, Bangalore",
+    latitude: 53.4808,
+    longitude: -2.2426,
+  },
+  {
+    id: 4,
+    title: "Great Location! Great Price! Great Apartment!",
+    img: "https://i.pinimg.com/564x/cf/3b/66/cf3b660f4ddc10aa7b9f43c781748c9d.jpg",
+    bedroom: 2,
+    bathroom: 1,
+    price: 7000000,
+    address: "234 Jayanagar, Bangalore",
+    latitude: 53.8008,
+    longitude: -1.5491,
+  },
+  {
+    id: 5,
+    title: "Apartment 5",
+    img: "https://i.pinimg.com/564x/ed/fc/25/edfc251dd91d37049ff3504d02d94e79.jpg",
+    bedroom: 3,
+    bathroom: 2,
+    price: 9000000,
+    address: "567 Koramangala, Bangalore",
+    latitude: 53.4084,
+    longitude: -2.9916,
+  },
+  {
+    id: 6,
+    title: "Apartment 6",
+    img: "https://i.pinimg.com/564x/33/5e/28/335e28b5665635e884204fd0a971fb80.jpg",
+    bedroom: 1,
+    bathroom: 1,
+    price: 8000000,
+    address: "890 Whitefield, Bangalore",
+    latitude: 54.9783,
+    longitude: -1.6174,
+  },
+  {
+    id: 7,
+    title: "Apartment 7",
+    img: "https://i.pinimg.com/564x/f8/a4/6d/f8a46dc08153a119bd88d99b5621d022.jpg",
+    bedroom: 2,
+    bathroom: 1,
+    price: 9000000,
+    address: "112 Electronic City, Bangalore",
+    latitude: 53.3811,
+    longitude: -1.4701,
+  },
+  {
+    id: 8,
+    title: "Apartment 8",
+    img: "https://i.pinimg.com/564x/c0/3c/d6/c03cd693af36cb4d261169777d78befa.jpg",
+    bedroom: 3,
+    bathroom: 2,
+    price: 8000000,
+    address: "8765 Sarjapur Road, Bangalore",
+    latitude: 51.4545,
+    longitude: -2.5879,
+  },
+];
+
+
+export const singlePostData = {
+  id: 1,
+  title: "Beautiful Apartment",
+  price: 7000000,
+  images: [
+    "https://i.pinimg.com/564x/48/60/0f/48600f6a8420ece5f8a868394332123e.jpg",
+    "https://i.pinimg.com/564x/13/ee/cf/13eecf11c5758f72833b60a656f901bc.jpg",
+    "https://i.pinimg.com/564x/cf/5a/e4/cf5ae429ecb3925bd5e0e8f9bc3434b1.jpg",
+    "https://i.pinimg.com/564x/79/c1/58/79c158d7691c664d8d28fed6904b14ee.jpg",
+  ],
+  bedRooms: 2,
+  bathroom: 1,
+  size: 861,
+  latitude: 12.9716, // Bangalore latitude
+  longitude: 77.5946, // Bangalore longitude
+  city: "Bangalore",
+  address: "1234 MG Road, Bangalore", // Updated address in Bangalore
+  school: "250m away",
+  bus: "100m away",
+  restaurant: "50m away",
+  description:
+    "Future alike hill pull picture swim magic chain seed engineer nest outer raise bound easy poetry gain loud weigh me recognize farmer bare danger. actually put square leg vessels earth engine matter key cup indeed body film century shut place environment were stage vertical roof bottom lady function breeze darkness beside tin view local breathe carbon swam declared magnet escape has from pile apart route coffee storm someone hold space use ahead sheep jungle closely natural attached part top grain your grade trade corn salmon trouble new bend most teacher range anybody every seat fifteen eventually",
+};
+
+
+export const userData = {
+  id: 1,
+  name: "Rohit Verma",
+  img: "https://i.pinimg.com/564x/c1/de/40/c1de40db4009b183dddda1d42a8235d3.jpg",
+};
